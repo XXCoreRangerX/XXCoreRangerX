@@ -38,9 +38,10 @@
   <summary><a href="https://github.com/xxcorerangerx/astro">astro</a> - A clean, elegant color palette, representing the minimallistic idea of the universe.</summary>
   <ul>
     <li><a href="https://github.com/xxcorerangerx/astro">astro</a> - Main color pallete info and documentation.</li>
-    <li><a href="https://github.com/xxcorerangerx/astro-kitty">astro-kitty</a> - Port for <code>kitty</code> terminal.</li>
-    <li><a href="https://github.com/xxcorerangerx/astro-tmux">astro-tmux</a> - Port for <code>tmux</code> (teminal multiplexer).</li>
-    <li><a href="https://github.com/xxcorerangerx/astro-xresources">astro-xresources</a> - Port for <code>Xresources</code> file</li>
+    <li><a href="https://github.com/xxcorerangerx/astro-kitty">astro-kitty</a> - Astro theme for <code>kitty</code> terminal.</li>
+    <li><a href="https://github.com/xxcorerangerx/astro-tmux">astro-tmux</a> - Astro theme for <code>tmux</code> (teminal multiplexer).</li>
+    <li><a href="https://github.com/xxcorerangerx/astro-rofi">astro-rofi</a> - Astro theme for <code>Rofi</code>.</li>
+    <li><a href="https://github.com/xxcorerangerx/astro-xresources">astro-xresources</a> - Astro theme for <code>Xresources</code> file.</li>
   </ul>
 </details>
 
@@ -58,7 +59,6 @@
 <li><a href="https://github.com/xxcorerangerx/discord-send-embed-code-to-webhook">discord-send-embed-code-to-webhook</a> - Simple plugin for Atom editor to send selected code extracts to a Discord webhook in an embed message.</li>
 <li><a href="https://github.com/xxcorerangerx/Hackintosh-HP-EliteBook-840-G4">Hackintosh-HP-EliteBook-840-G4</a> - OpenCore EFI for the HP EliteBook 840 G4.</li>
 <li><a href="https://github.com/xxcorerangerx/Hackintosh-Z390-9700K">Hackintosh-Z390-9700K</a> - OpenCore EFI for my main PC.</li>
-<li><a href="https://github.com/xxcorerangerx/xxcore.pl">xxcore.pl</a> - Some of my projects from <a href="https://xxcore.pl">xxcore.pl</a>.</li>
 
 ---
 
