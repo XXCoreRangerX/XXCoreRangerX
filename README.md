@@ -59,6 +59,7 @@
 <li><a href="https://github.com/xxcorerangerx/discord-send-embed-code-to-webhook">discord-send-embed-code-to-webhook</a> - Simple plugin for Atom editor to send selected code extracts to a Discord webhook in an embed message.</li>
 <li><a href="https://github.com/xxcorerangerx/Hackintosh-HP-EliteBook-840-G4">Hackintosh-HP-EliteBook-840-G4</a> - OpenCore EFI for the HP EliteBook 840 G4.</li>
 <li><a href="https://github.com/xxcorerangerx/Hackintosh-Z390-9700K">Hackintosh-Z390-9700K</a> - OpenCore EFI for my main PC.</li>
+<li><a href="https://github.com/xxcorerangerx/piholestats">PiHole Stats</a> - A simple Python script to display PiHole stats on a SSD1306 OLED display.</li>
 
 ---
 
