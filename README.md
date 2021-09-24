@@ -61,6 +61,16 @@
 <li><a href="https://github.com/xxcorerangerx/Hackintosh-Z390-9700K">Hackintosh-Z390-9700K</a> - OpenCore EFI for my main PC.</li>
 <li><a href="https://github.com/xxcorerangerx/piholestats">piholestats</a> - A simple Python script to display PiHole stats on a SSD1306 OLED display.</li>
 
+<h2 align="center">
+  Donate
+</h2>
+<h4>Like my work? You can donate crypto:</h4>
+
+| Crypto | Address |
+| ------ | ------- |
+| <img alt="BTC" src="https://user-images.githubusercontent.com/61242573/134712889-19dba8b8-f304-459a-92ab-e8ad77e62a1c.png"> | 15XY1odF9UBB5gn9H2vSuEkiNVnBt2L9jd |
+| <img alt="XMR" src="https://user-images.githubusercontent.com/61242573/134713028-3331bb7e-ef14-47ce-887a-deb652b30cbd.png"> | 49tYU8Y6XPDY5AUTZF3RoVZk3fH8UUF3993KWrtQKB6i2qrCqed2GFA4xPJKjQWBn5WYgkNQT6fkW2ev1Le78twbKyUHzJn |
+
 ---
 
 <p align="center">
