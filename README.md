@@ -1,14 +1,14 @@
 <h1 align="center">
   Hello! I'm Filip Piękoś
 </h1>
-<h3 align="center">Software Engineer, Designer, Tech Enthusiast</h3>
+<h3 align="center">Developer, Designer, Engineer</h3>
 
-<p align="center">I'm an aspiring developer, engineer, sysadmin, UI/UX/CAD/EDA designer, and a <strong>tech enthusiast</strong></p>
-<p align="center">I enjoy long walks, skiing and heavy metal.</p>
+<p align="center">Aspiring DevOps engineer and developer. I'm a <strong>tech enthusiast</strong> interested in programming, computer science, design and tinkering with electronics.</strong></p>
+<p align="center">I like casual gaming and listening to heavy metal or EDM music.</p>
 <p align="center"><code>Studying at <a href="https://zstiojar.edu.pl">ZSTiO</a>, Jarosław, Poland</code></p>
 <p align="center">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xxcorerangerx?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1e">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/xxcorerangerx?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1e">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xxcorerangerx?color=%233a3a55&logo=github&logoColor=%23DDD&style=flat-square&colorA=1b1b1f"/>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/xxcorerangerx?color=%233a3a55&logo=github&logoColor=%23DDD&style=flat-square&colorA=1b1b1f"/>
 </p>
 <h4 align="center"><a href="https://filippiekos.com">filippiekos.com</a></h4>
 
@@ -30,8 +30,8 @@
 
 <p align="center">
 <a href="https://github.com/vivek9patel">
-  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=XXCoreRangerX&show_icons=true&title_color=28293D&text_color=ECEFF4&icon_color=28293D&bg_color=1B1C1E&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
-  <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXCoreRangerX&show_icons=true&title_color=28293D&text_color=ECEFF4&icon_color=28293D&bg_color=1B1C1E&hide_border=true&border_radius=10&layout=compact">
+  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=XXCoreRangerX&show_icons=true&title_color=3a3a55&text_color=DDD&icon_color=3a3a55&bg_color=1B1B1F&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXCoreRangerX&show_icons=true&title_color=3a3a55&text_color=DDD&icon_color=3a3a55&bg_color=1B1B1F&hide_border=true&border_radius=10&layout=compact"/>
 </a>
 </p>
 
