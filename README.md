@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Developer, Designer, Engineer</h3>
 
-<p align="center">Aspiring DevOps engineer and developer. I'm a <strong>tech enthusiast</strong> interested in programming, computer science, design and tinkering with electronics.</strong></p>
+<p align="center">Aspiring DevOps engineer and developer. I'm a <strong>tech enthusiast</strong> interested in programming, computer science, design and tinkering with electronics.</p>
 <p align="center">I like casual gaming and listening to heavy metal or EDM music.</p>
 <p align="center"><code>Studying at <a href="https://zstiojar.edu.pl">ZSTiO</a>, Jarosław, Poland</code></p>
 <p align="center">
