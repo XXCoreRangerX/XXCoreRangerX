@@ -1,0 +1,75 @@
+---
+import '@fontsource/jetbrains-mono';
+import '@fontsource/domine';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>XXCoreRangerX's README</title>
+		<meta name="description" content="GitHub README for XXCoreRangerX" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
+
+<style is:global>
+    body {
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+        color: #ddd;
+        background-color: #1a1a1f;
+        margin: 40px auto;
+        padding: 0 20px;
+        max-width: 650px;
+        font-family: Domine, serif;
+        font-size: 1.2rem;
+        line-height: 1.6;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    sup,
+    code {
+        font-family: JetBrains Mono, monospace;
+        line-height: normal;
+    }
+
+    hr {
+        border: none;
+        border-top: 3px solid #2a2a2f;
+        border-radius: 3px;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    pre {
+        background-color: #2a2a2f;
+        padding: 20px;
+        border-radius: 5px;
+        overflow-x: auto;
+    }
+
+    a,
+    li::marker {
+        color: #3a3a55;
+        text-decoration: none;
+    }
+
+    ul {
+        list-style-position: inside;
+        padding-left: 1ch;
+    }
+</style>

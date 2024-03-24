@@ -1,0 +1,18 @@
+{
+  "name": "xxcorerangerx",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@fontsource/domine": "^5.0.17",
+    "@fontsource/jetbrains-mono": "^5.0.19",
+    "astro": "^4.5.9",
+    "astro-remote": "^0.3.2"
+  }
+}
